@@ -1,0 +1,8 @@
+https://ride-e.bike/ -W -O "yes/websitedemo01" -P none:yes -%v none none
+File generated automatically on Wed, 26 Jul 2023 19:28:27, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
